@@ -1,0 +1,15 @@
+IMPORTANT: macOS Finder hides the .github folder by default.
+
+To show it:
+1. Open this extracted folder in Finder.
+2. Press Command + Shift + . (period)
+3. You should now see a grey .github folder.
+4. Upload these items to the ROOT of the GitHub repository:
+   .github
+   app.py
+   check_once.py
+   requirements.txt
+   README.md
+
+Do NOT upload the outer folder itself.
+The WORKFLOW_VISIBLE_COPY folder is only a backup copy for reference and does not need to be uploaded.
